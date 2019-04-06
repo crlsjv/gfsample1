@@ -1,0 +1,2 @@
+fichero 1 de la feature 1
+modificaciones en la feature f2
